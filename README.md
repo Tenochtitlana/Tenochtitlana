@@ -18,4 +18,5 @@ Growing market demand + analytical mindset (quick learner, persistent, detail-or
 
 - 🔭 I’m currently working on: Regression Testing, Test Case Execution, Postman API Testing, Functional Testing, Bug Report Writing, Android Studio, Mobile App Testing.
 - 📫 How to reach me: (https://t.me/Tenochtitlana)
+  
 -->
